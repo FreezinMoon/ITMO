@@ -1,0 +1,9 @@
+add
+9
+9
+9
+9
+ASSAULT
+BOLTGUN
+MANREAPER
+start 5
