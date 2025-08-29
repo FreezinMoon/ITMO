@@ -4,3 +4,9 @@
 [submodule "Операционные системы/os_lab2"]
 	path = Операционные системы/os_lab2
 	url = https://github.com/FreezinMoon/os_lab2
+[submodule "Веб/web4"]
+	path = Веб/web4
+	url = https://github.com/FreezinMoon/web4
+[submodule "Архитектура компьютера/csa_lab3"]
+	path = Архитектура компьютера/csa_lab3
+	url = https://github.com/FreezinMoon/csa_lab3
