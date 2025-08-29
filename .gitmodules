@@ -1,0 +1,6 @@
+[submodule "Операционные системы/os_lab1"]
+	path = Операционные системы/os_lab1
+	url = https://github.com/FreezinMoon/os_lab1
+[submodule "Операционные системы/os_lab2"]
+	path = Операционные системы/os_lab2
+	url = https://github.com/FreezinMoon/os_lab2
