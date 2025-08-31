@@ -10,6 +10,3 @@
 [submodule "Архитектура компьютера/csa_lab3"]
 	path = Архитектура компьютера/csa_lab3
 	url = https://github.com/FreezinMoon/csa_lab3
-[submodule "Системы ввода-вывода/assignment-1-io-library"]
-	path = Системы ввода-вывода/assignment-1-io-library
-	url = https://gitlab.se.ifmo.ru/II/assignment-1-io-library
