@@ -10,3 +10,21 @@
 [submodule "Архитектура компьютера/csa_lab3"]
 	path = Архитектура компьютера/csa_lab3
 	url = https://github.com/FreezinMoon/csa_lab3
+[submodule "Системы ввода-вывода/assignment-1-io-library"]
+	path = Системы ввода-вывода/assignment-1-io-library
+	url = https://github.com/FreezinMoon/assignment-1-io-library.git
+[submodule "Языки программирования/assignment-1-elf64-loader"]
+	path = Языки программирования/assignment-1-elf64-loader
+	url = https://github.com/FreezinMoon/assignment-1-elf64-loader.git
+[submodule "Языки программирования/assignment-2-dictionary"]
+	path = Языки программирования/assignment-2-dictionary
+	url = https://github.com/FreezinMoon/assignment-2-dictionary.git
+[submodule "Языки программирования/assignment-3-image-rotation"]
+	path = Языки программирования/assignment-3-image-rotation
+	url = https://github.com/FreezinMoon/assignment-3-image-rotation.git
+[submodule "Языки программирования/assignment-4-memory-allocator"]
+	path = Языки программирования/assignment-4-memory-allocator
+	url = https://github.com/FreezinMoon/assignment-4-memory-allocator.git
+[submodule "Языки программирования/assignment-5-sepia-filter"]
+	path = Языки программирования/assignment-5-sepia-filter
+	url = https://github.com/FreezinMoon/assignment-5-sepia-filter.git
